@@ -77,6 +77,9 @@ class GameViewController:UIViewController, MTKViewDelegate {
         view.device = device
         view.delegate = self
         
+        print("hello world")
+        print("hello worldeee")
+        
         loadAssets()
     }
     
